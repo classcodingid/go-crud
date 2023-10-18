@@ -1,0 +1,15 @@
+https://codewithmukesh.com/blog/implementing-crud-in-golang-rest-api/
+https://github.com/gorilla/mux
+https://gorm.io/
+https://github.com/go-faker/faker
+https://github.com/brianvoe/gofakeit
+
+with fiber
+https://filipemunhoz.medium.com/generating-fake-data-with-golang-77a5a0fe6f4e
+
+perintah golang
+===============
+go mod init xxxnamaproject
+go get -u xxxgithub contoh: github.com/gorilla/mux
+go build .
+go run .
